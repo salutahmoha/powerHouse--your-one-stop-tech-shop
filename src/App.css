@@ -1,0 +1,22 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --color-primary: #229799;
+  --color-primary-light: #48cfcb;
+  --color-tertiary: #f5f5f5;
+  --color-black: #424242;
+  --color-white: #fff;
+}
+
+body {
+  font-size: 1.6rem;
+  font-family: "Rubik", sans-serif;
+  background-color: var(--color-tertiary);
+  color: var(--color-black);
+  padding: 0 2rem;
+  margin-bottom: 3rem;
+}
