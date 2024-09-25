@@ -1,0 +1,43 @@
+.hero-section{
+    display: block;
+    justify-content: center;
+    padding-top: 5rem;
+    text-align: center;
+}
+.hero-section img{
+    margin: auto;
+}
+
+.hero-section h2{
+    font-size: 5rem;
+    font-weight: 700;
+    line-height: normal;
+    color: var(--color-black);
+}
+
+.hero-section p{
+    font-size: 1.6rem;
+    font-weight: 400;
+    line-height: 2.72rem;
+    color: var(--color-black);
+}
+
+.hero-section button{
+    background: var(--color-primary);
+    color: var(--color-black);
+    padding: 1rem 1.5rem;
+    margin: 1rem 0 5rem 0;
+    border: none;
+    border-radius: .3rem;
+    }
+
+    .hero-section button h4{
+        font-size: 2rem;
+        color: var(--color-white);
+    }
+.img-fluid{
+    width: 70rem;
+  box-shadow: 1rem 1rem 15rem var(--color-primary);
+  margin-top: 4rem;
+  border-radius: 5px;
+}

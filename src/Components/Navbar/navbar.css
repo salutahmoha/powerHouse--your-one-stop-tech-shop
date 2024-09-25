@@ -1,53 +1,52 @@
-
-html{
-    font-size: 62.5%;
+html {
+  font-size: 62.5%;
 }
-#navbar{
-    display: block;
-}
-
-.navbar-socials{
-    display: flex;
-    gap: 2rem;
-    margin: .5rem 2rem 0.7rem 45%;
+#navbar {
+  display: block;
 }
 
-.socials{
-    display: flex;
-    align-items: center;
-    gap: .5rem;
+.navbar-socials {
+  display: flex;
+  gap: 2rem;
+  margin: 0.5rem 2rem 0.7rem 45%;
 }
 
-.socials h4{
-    font-size: 2rem;
+.socials {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
 }
 
-.socials svg{
-    fill: var(--color-primary-light);
+.socials h4 {
+  font-size: 2rem;
+}
+
+.socials svg {
+  fill: var(--color-primary-light);
 }
 
 /* navbar stylings */
 
-.nav-items{
-    display: flex;
-    gap: 5rem;
+.nav-items {
+  display: flex;
+  gap: 5rem;
 }
-.navbar-lists{
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    margin: 0 4rem;
+.navbar-lists {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0 4rem;
 }
 
-.logo-text h2{
-    font-size: 3rem;
-    font-weight: 600;
+.logo-text h2 {
+  font-size: 3rem;
+  font-weight: 600;
 }
-.nav-list{
-    list-style: none;
+.nav-list {
+  list-style: none;
 }
-.nav-list a{
-    font-size: 2rem;
-    text-decoration: none;
-    color: black;
+.nav-list a {
+  font-size: 2rem;
+  text-decoration: none;
+  color: black;
 }

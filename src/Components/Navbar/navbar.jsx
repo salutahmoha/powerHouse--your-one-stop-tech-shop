@@ -13,19 +13,19 @@ function navbar() {
       <div className="container" id="navbar">
         <div className="navbar-socials">
           <div className="socials">
-            <FaSquareFacebook size={20}/>
+            <FaSquareFacebook size={20} />
             <h4 navbar-socials-text>PowerHouse</h4>
           </div>
           <div className="socials">
-            <FaXTwitter size={20}/>
+            <FaXTwitter size={20} />
             <h4 navbar-socials-text>PowerHouse</h4>
           </div>
           <div className="socials">
-            <FaSquareInstagram size={20}/>
+            <FaSquareInstagram size={20} />
             <h4 navbar-socials-text>PowerHouse</h4>
           </div>
           <div className="socials">
-            <FaTiktok size={20}/>
+            <FaTiktok size={20} />
             <h4 navbar-socials-text>PowerHouse</h4>
           </div>
         </div>
